@@ -5,3 +5,7 @@ Solve your disagreements with friends and family. Get the highest dice score and
 
 ## Controls
 press the refresh button near the search bar to refresh the game and start and new one.
+
+## Game Pics
+![Title Image](https://raw.githubusercontent.com/NikaJT/dicee.game/main/Dicee-icon.png)
+![Title Screen](https://raw.githubusercontent.com/NikaJT/dicee.game/main/Dicee.Game%20Pic.png)
